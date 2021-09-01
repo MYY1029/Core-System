@@ -10,18 +10,19 @@
 /* Variables */
 /* mixin */
 /* :: Import Fonts */
-@import url("https://fonts.loli.net/css?family=Roboto:100,300,400,500,700");
+/*@import url("https://fonts.loli.net/css?family=Roboto:100,300,400,500,700");*/
 /* :: Import All CSS */
-@import url(css/bootstrap.min.css);
+/*@import url(css/bootstrap.min.css);
 @import url(css/animate.css);
 @import url(css/owl.carousel.css);
 @import url(css/magnific-popup.css);
 @import url(css/font-awesome.min.css);
-@import url(css/themify-icons.css);
+@import url(css/themify-icons.css);*/
 /* :: Base CSS */
 * {
-  margin: 0;
-  padding: 0; }
+    margin: 0;
+    padding: 0;
+}
 
 body {
   font-family: "Roboto", sans-serif; }
